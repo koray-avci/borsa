@@ -1,0 +1,11 @@
+{
+    "name": "json-server-example",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "json-server --watch db.json --host 10.22.35.73 --port 3000"
+    },
+    "dependencies": {
+      "json-server": "^0.16.3"
+    }
+  }
+  

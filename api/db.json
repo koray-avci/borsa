@@ -1,0 +1,741 @@
+{
+  "bist": [
+    {
+      "id": "b824",
+      "symbol": "AEFES",
+      "sales": "161,80",
+      "buying": "161,78",
+      "change": "1,95"
+    },
+    {
+      "id": "9640",
+      "symbol": "AGROT",
+      "sales": "33,70",
+      "buying": "33,68",
+      "change": "-3,71"
+    },
+    {
+      "id": "2438",
+      "symbol": "AKBNK",
+      "sales": "55,85",
+      "buying": "55,83",
+      "change": "-4,37"
+    },
+    {
+      "id": "a46d",
+      "symbol": "AKCNS",
+      "sales": "140,00",
+      "buying": "138,00",
+      "change": "-3,58"
+    },
+    {
+      "id": "6383",
+      "symbol": "AKFGY",
+      "sales": "2,31",
+      "buying": "2,29",
+      "change": "-0,43"
+    },
+    {
+      "id": "ce33",
+      "symbol": "AKFYE",
+      "sales": "24,94",
+      "buying": "24,90",
+      "change": "-0,24"
+    },
+    {
+      "id": "d258",
+      "symbol": "AKSEN",
+      "sales": "36,38",
+      "buying": "36,30",
+      "change": "-2,73"
+    },
+    {
+      "id": "b46a",
+      "symbol": "ALARK",
+      "sales": "136,00",
+      "buying": "134,00",
+      "change": "-5,56"
+    },
+    {
+      "id": "1cce",
+      "symbol": "ALBRK",
+      "sales": "4,39",
+      "buying": "4,36",
+      "change": "-2,88"
+    },
+    {
+      "id": "958a",
+      "symbol": "ALFAS",
+      "sales": "92,70",
+      "buying": "92,50",
+      "change": "-7,94"
+    },
+    {
+      "id": "8987",
+      "symbol": "ANSGR",
+      "sales": "82,80",
+      "buying": "82,60",
+      "change": "1,85"
+    },
+    {
+      "id": "8319",
+      "symbol": "ARCLK",
+      "sales": "162,00",
+      "buying": "160,00",
+      "change": "0,06"
+    },
+    {
+      "id": "9ef2",
+      "symbol": "ASELS",
+      "sales": "58,55",
+      "buying": "58,50",
+      "change": "0,77"
+    },
+    {
+      "id": "2ad9",
+      "symbol": "ASTOR",
+      "sales": "95,80",
+      "buying": "94,80",
+      "change": "-2,74"
+    },
+    {
+      "id": "a2b8",
+      "symbol": "BERA",
+      "sales": "19,26",
+      "buying": "19,20",
+      "change": "-2,23"
+    },
+    {
+      "id": "ab10",
+      "symbol": "BFREN",
+      "sales": "1.030,00",
+      "buying": "1.020,00",
+      "change": "2,92"
+    },
+    {
+      "id": "4565",
+      "symbol": "BIENY",
+      "sales": "41,78",
+      "buying": "41,70",
+      "change": "-3,33"
+    },
+    {
+      "id": "b9a4",
+      "symbol": "BIMAS",
+      "sales": "392,00",
+      "buying": "391,00",
+      "change": "-0,19"
+    },
+    {
+      "id": "0a47",
+      "symbol": "BIOEN",
+      "sales": "17,88",
+      "buying": "17,80",
+      "change": "-2,56"
+    },
+    {
+      "id": "dc0b",
+      "symbol": "BOBET",
+      "sales": "35,54",
+      "buying": "35,50",
+      "change": "-3,27"
+    },
+    {
+      "id": "2e4d",
+      "symbol": "BRSAN",
+      "sales": "599,00",
+      "buying": "598,00",
+      "change": "-2,44"
+    },
+    {
+      "id": "ef73",
+      "symbol": "BRYAT",
+      "sales": "3.572,50",
+      "buying": "3.570,50",
+      "change": "-3,71"
+    },
+    {
+      "id": "6b07",
+      "symbol": "BTCIM",
+      "sales": "129,80",
+      "buying": "129,00",
+      "change": "-2,26"
+    },
+    {
+      "id": "e5ef",
+      "symbol": "CANTE",
+      "sales": "19,41",
+      "buying": "19,40",
+      "change": "-4,38"
+    },
+    {
+      "id": "66b5",
+      "symbol": "CCOLA",
+      "sales": "657,00",
+      "buying": "655,00",
+      "change": "0,15"
+    },
+    {
+      "id": "dbd9",
+      "symbol": "CIMSA",
+      "sales": "30,86",
+      "buying": "30,00",
+      "change": "-2,40"
+    },
+    {
+      "id": "a406",
+      "symbol": "CWENE",
+      "sales": "299,00",
+      "buying": "298,00",
+      "change": "4,09"
+    },
+    {
+      "id": "99c0",
+      "symbol": "DOAS",
+      "sales": "390,25",
+      "buying": "390,00",
+      "change": "1,36"
+    },
+    {
+      "id": "2753",
+      "symbol": "DOHOL",
+      "sales": "13,30",
+      "buying": "13,25",
+      "change": "-1,55"
+    },
+    {
+      "id": "4bca",
+      "symbol": "ECILC",
+      "sales": "50,75",
+      "buying": "50,00",
+      "change": "0,10"
+    },
+    {
+      "id": "e399",
+      "symbol": "ECZYT",
+      "sales": "231,20",
+      "buying": "231,00",
+      "change": "-2,78"
+    },
+    {
+      "id": "2376",
+      "symbol": "EGEEN",
+      "sales": "16.332,50",
+      "buying": "16.332,00",
+      "change": "-1,91"
+    },
+    {
+      "id": "5e3b",
+      "symbol": "EKGYO",
+      "sales": "10,70",
+      "buying": "10,00",
+      "change": "-1,02"
+    },
+    {
+      "id": "f1ed",
+      "symbol": "ENERY",
+      "sales": "167,20",
+      "buying": "167,00",
+      "change": "1,03"
+    },
+    {
+      "id": "c089",
+      "symbol": "ENJSA",
+      "sales": "61,80",
+      "buying": "61,00",
+      "change": "0,41"
+    },
+    {
+      "id": "7e73",
+      "symbol": "ENKAI",
+      "sales": "35,30",
+      "buying": "35,00",
+      "change": "-1,12"
+    },
+    {
+      "id": "772d",
+      "symbol": "EREGL",
+      "sales": "40,52",
+      "buying": "40,50",
+      "change": "-1,94"
+    },
+    {
+      "id": "63e8",
+      "symbol": "EUPWR",
+      "sales": "154,40",
+      "buying": "154,00",
+      "change": "-2,89"
+    },
+    {
+      "id": "bbaa",
+      "symbol": "EUREN",
+      "sales": "15,25",
+      "buying": "15,20",
+      "change": "-0,33"
+    },
+    {
+      "id": "5d44",
+      "symbol": "FROTO",
+      "sales": "1.153,00",
+      "buying": "1.151,00",
+      "change": "0,87"
+    },
+    {
+      "id": "dc07",
+      "symbol": "GARAN",
+      "sales": "70,60",
+      "buying": "70,00",
+      "change": "-5,36"
+    },
+    {
+      "id": "9e2f",
+      "symbol": "GESAN",
+      "sales": "70,40",
+      "buying": "70,00",
+      "change": "-2,63"
+    },
+    {
+      "id": "7501",
+      "symbol": "GUBRF",
+      "sales": "154,70",
+      "buying": "154,00",
+      "change": "-2,40"
+    },
+    {
+      "id": "e034",
+      "symbol": "GWIND",
+      "sales": "25,56",
+      "buying": "25,50",
+      "change": "-1,84"
+    },
+    {
+      "id": "f729",
+      "symbol": "HALKB",
+      "sales": "14,83",
+      "buying": "14,80",
+      "change": "-4,87"
+    },
+    {
+      "id": "57fb",
+      "symbol": "HEKTS",
+      "sales": "15,38",
+      "buying": "15,30",
+      "change": "-1,35"
+    },
+    {
+      "id": "d048",
+      "symbol": "IPEKE",
+      "sales": "41,80",
+      "buying": "41,00",
+      "change": "-0,48"
+    },
+    {
+      "id": "4c2e",
+      "symbol": "ISCTR",
+      "sales": "12,16",
+      "buying": "12,00",
+      "change": "-4,33"
+    },
+    {
+      "id": "90d9",
+      "symbol": "ISGYO",
+      "sales": "15,46",
+      "buying": "15,40",
+      "change": "-2,34"
+    },
+    {
+      "id": "bdd9",
+      "symbol": "ISMEN",
+      "sales": "32,50",
+      "buying": "32,00",
+      "change": "-2,29"
+    },
+    {
+      "id": "85cc",
+      "symbol": "IZENR",
+      "sales": "26,98",
+      "buying": "26,90",
+      "change": "-2,81"
+    },
+    {
+      "id": "bd46",
+      "symbol": "KAYSE",
+      "sales": "30,08",
+      "buying": "30,00",
+      "change": "-4,75"
+    },
+    {
+      "id": "97d7",
+      "symbol": "KCAER",
+      "sales": "63,25",
+      "buying": "63,20",
+      "change": "10,00"
+    },
+    {
+      "id": "5dc2",
+      "symbol": "KCHOL",
+      "sales": "217,10",
+      "buying": "217,00",
+      "change": "0,32"
+    },
+    {
+      "id": "14b6",
+      "symbol": "KLSER",
+      "sales": "60,35",
+      "buying": "60,30",
+      "change": "-4,05"
+    },
+    {
+      "id": "4753",
+      "symbol": "KONTR",
+      "sales": "235,20",
+      "buying": "235,00",
+      "change": "-4,04"
+    },
+    {
+      "id": "799f",
+      "symbol": "KONYA",
+      "sales": "11.000,00",
+      "buying": "10.999,00",
+      "change": "-6,62"
+    },
+    {
+      "id": "4af7",
+      "symbol": "KOZAA",
+      "sales": "50,30",
+      "buying": "50,00",
+      "change": "0,60"
+    },
+    {
+      "id": "3841",
+      "symbol": "KOZAL",
+      "sales": "24,52",
+      "buying": "24,50",
+      "change": "0,08"
+    },
+    {
+      "id": "5cf9",
+      "symbol": "KRDMD",
+      "sales": "23,48",
+      "buying": "23,40",
+      "change": "-1,76"
+    },
+    {
+      "id": "856a",
+      "symbol": "MAVI",
+      "sales": "81,05",
+      "buying": "81,00",
+      "change": "-2,64"
+    },
+    {
+      "id": "5685",
+      "symbol": "MGROS",
+      "sales": "420,00",
+      "buying": "419,00",
+      "change": "-2,95"
+    },
+    {
+      "id": "ba58",
+      "symbol": "MIATK",
+      "sales": "63,05",
+      "buying": "63,00",
+      "change": "-4,90"
+    },
+    {
+      "id": "2b32",
+      "symbol": "ODAS",
+      "sales": "9,27",
+      "buying": "9,20",
+      "change": "-1,49"
+    },
+    {
+      "id": "c007",
+      "symbol": "OTKAR",
+      "sales": "495,00",
+      "buying": "494,00",
+      "change": "1,38"
+    },
+    {
+      "id": "53a0",
+      "symbol": "OYAKC",
+      "sales": "56,40",
+      "buying": "56,00",
+      "change": "-2,76"
+    },
+    {
+      "id": "4328",
+      "symbol": "PETKM",
+      "sales": "19,99",
+      "buying": "19,90",
+      "change": "0,25"
+    },
+    {
+      "id": "bd33",
+      "symbol": "PGSUS",
+      "sales": "838,00",
+      "buying": "836,00",
+      "change": "-0,95"
+    },
+    {
+      "id": "981c",
+      "symbol": "QUAGR",
+      "sales": "3,99",
+      "buying": "3,90",
+      "change": "-2,21"
+    },
+    {
+      "id": "57d7",
+      "symbol": "REEDR",
+      "sales": "45,90",
+      "buying": "45,00",
+      "change": "-7,79"
+    },
+    {
+      "id": "e6b3",
+      "symbol": "SAHOL",
+      "sales": "83,75",
+      "buying": "83,70",
+      "change": "-1,64"
+    },
+    {
+      "id": "bc95",
+      "symbol": "SASA",
+      "sales": "40,78",
+      "buying": "40,70",
+      "change": "-1,50"
+    },
+    {
+      "id": "867a",
+      "symbol": "SAYAS",
+      "sales": "84,25",
+      "buying": "84,20",
+      "change": "-4,10"
+    },
+    {
+      "id": "1fee",
+      "symbol": "SDTTR",
+      "sales": "336,50",
+      "buying": "336,00",
+      "change": "-5,14"
+    },
+    {
+      "id": "909f",
+      "symbol": "SISE",
+      "sales": "47,26",
+      "buying": "47,20",
+      "change": "-0,84"
+    },
+    {
+      "id": "8dcb",
+      "symbol": "SKBNK",
+      "sales": "4,54",
+      "buying": "4,50",
+      "change": "-3,40"
+    },
+    {
+      "id": "4a28",
+      "symbol": "SMRTG",
+      "sales": "56,55",
+      "buying": "56,50",
+      "change": "-3,83"
+    },
+    {
+      "id": "2215",
+      "symbol": "SOKM",
+      "sales": "62,85",
+      "buying": "62,80",
+      "change": "-1,49"
+    },
+    {
+      "id": "329a",
+      "symbol": "TABGD",
+      "sales": "135,00",
+      "buying": "134,00",
+      "change": "-3,43"
+    },
+    {
+      "id": "8280",
+      "symbol": "TAVHL",
+      "sales": "195,10",
+      "buying": "195,00",
+      "change": "-1,51"
+    },
+    {
+      "id": "e21f",
+      "symbol": "TCELL",
+      "sales": "73,25",
+      "buying": "73,20",
+      "change": "0,00"
+    },
+    {
+      "id": "d836",
+      "symbol": "THYAO",
+      "sales": "297,00",
+      "buying": "296,00",
+      "change": "-0,50"
+    },
+    {
+      "id": "20f5",
+      "symbol": "TKFEN",
+      "sales": "40,94",
+      "buying": "40,90",
+      "change": "-1,59"
+    },
+    {
+      "id": "8a00",
+      "symbol": "TOASO",
+      "sales": "263,75",
+      "buying": "263,70",
+      "change": "-0,85"
+    },
+    {
+      "id": "cc29",
+      "symbol": "TSKB",
+      "sales": "9,40",
+      "buying": "9,00",
+      "change": "-3,59"
+    },
+    {
+      "id": "aaf3",
+      "symbol": "TTKOM",
+      "sales": "36,24",
+      "buying": "36,20",
+      "change": "-0,82"
+    },
+    {
+      "id": "d859",
+      "symbol": "TTRAK",
+      "sales": "911,00",
+      "buying": "910,90",
+      "change": "1,90"
+    },
+    {
+      "id": "986c",
+      "symbol": "TUKAS",
+      "sales": "8,30",
+      "buying": "8,00",
+      "change": "0,73"
+    },
+    {
+      "id": "70cb",
+      "symbol": "TUPRS",
+      "sales": "186,00",
+      "buying": "185,00",
+      "change": "1,64"
+    },
+    {
+      "id": "090d",
+      "symbol": "TURSG",
+      "sales": "62,05",
+      "buying": "62,00",
+      "change": "1,72"
+    },
+    {
+      "id": "8237",
+      "symbol": "ULKER",
+      "sales": "111,80",
+      "buying": "111,00",
+      "change": "0,72"
+    },
+    {
+      "id": "d997",
+      "symbol": "VAKBN",
+      "sales": "15,92",
+      "buying": "15,90",
+      "change": "-4,04"
+    },
+    {
+      "id": "1920",
+      "symbol": "VESBE",
+      "sales": "21,48",
+      "buying": "21,40",
+      "change": "-2,63"
+    },
+    {
+      "id": "a3d7",
+      "symbol": "VESTL",
+      "sales": "86,80",
+      "buying": "86,00",
+      "change": "0,70"
+    },
+    {
+      "id": "8bef",
+      "symbol": "YEOTK",
+      "sales": "207,20",
+      "buying": "207,00",
+      "change": "-4,95"
+    },
+    {
+      "id": "b67a",
+      "symbol": "YKBNK",
+      "sales": "30,00",
+      "buying": "29,90",
+      "change": "-5,06"
+    },
+    {
+      "id": "2538",
+      "symbol": "YYLGD",
+      "sales": "13,19",
+      "buying": "13,10",
+      "change": "-3,72"
+    },
+    {
+      "id": "ed34",
+      "symbol": "ZOREN",
+      "sales": "5,72",
+      "buying": "5,70",
+      "change": "-2,72"
+    }
+  ],
+  "favorites": [],
+  "portfoliosTitle": [
+    {
+      "title": "uzun vade",
+      "id": 1
+    },
+    {
+      "title": "kısa vade",
+      "id": 2
+    }
+  ],
+  "portfolios": [
+    {
+      "id": "1",
+      "shares": [
+        {
+          "id": "b824",
+          "symbol": "AEFES",
+          "sales": "161,80",
+          "buying": "161,78",
+          "change": "1,95"
+        },
+        {
+          "id": "9640",
+          "symbol": "AGROT",
+          "sales": "33,70",
+          "buying": "33,68",
+          "change": "-3,71"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "shares": [
+        {
+          "id": "b824",
+          "symbol": "AEFES",
+          "sales": "161,80",
+          "buying": "161,78",
+          "change": "1,95"
+        },
+        {
+          "id": "9640",
+          "symbol": "AGROT",
+          "sales": "33,70",
+          "buying": "33,68",
+          "change": "-3,71"
+        }
+      ]
+    }
+  ]
+}
